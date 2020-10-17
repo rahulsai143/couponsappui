@@ -1,0 +1,59 @@
+h1 {
+  margin-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+h2 {
+  color: #c75847;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.account {
+  text-align: center;
+  margin-top: 0px;
+}
+
+.aclass {
+  color: #2bf7db;
+}
+
+.forget-password {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+.alert {
+  width: 200px;
+  color: #ff0000;
+  margin-top: 2px;
+  height: 5px;
+  display: flex;
+  align-items: center;
+}
+
+input.ng-invalid.ng-dirty {
+  border: 1px solid red;
+}
+
+input.ng-valid.ng-dirty {
+  border: 1px solid #51c722;
+}
+
+.row {
+  margin-top: 30px;
+}
+
+#checkbox {
+  margin-left: 10px;
+}
+
+.remember {
+  color: #0e0f0f;
+  display: inline-block;
+  position: relative;
+}
+
+/*# sourceMappingURL=loginpage.component.css.map */
